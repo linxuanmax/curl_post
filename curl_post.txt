@@ -1,0 +1,2 @@
+获取数据的格式：
+cntent-type: application/json" -X POST -d '{"phone":"13521389587","password":"test"}' http://domain/apis/users.json
